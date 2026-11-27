@@ -1,3 +1,10 @@
+---
+title: Home
+nav_order: 1
+---
+
+
+
 My cyber virtual machine blogs
 
 **2026**
